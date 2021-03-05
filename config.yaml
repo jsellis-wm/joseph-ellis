@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Joseph Ellis # Website name
 baseurl: 'www.joseph-ellis.com' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Joseph Ellis' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
