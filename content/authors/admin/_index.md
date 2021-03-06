@@ -20,7 +20,7 @@ interests:
 - Information Retrieval
 organizations:
 - name: Newport News Public Schools
-  url: https://sbo.nn.k12.va.us/
+  url: http://sbo.nn.k12.va.us/
 role: Supervisor of Instructional Data
 social:
 - icon: envelope
@@ -49,4 +49,4 @@ Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
