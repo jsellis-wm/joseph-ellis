@@ -3,25 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: MS in Business Analytics
+    institution: The College of William & Mary
+    year: Candidate, May 2022
+  - course: MS in Educational Leadership
+    institution: Purdue University
+    year: 2015
+  - course: BA in Economics
+    institution: Virginia Polytechnic Institute and State University
+    year: 2004
+email: "jsellis@email.wm.edu"
 highlight_name: false
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Newport News Public Schools
+  url: https://sbo.nn.k12.va.us/
+role: Supervisor of Instructional Data
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,7 +42,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Joseph Ellis
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
