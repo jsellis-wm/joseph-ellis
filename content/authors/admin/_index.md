@@ -15,12 +15,13 @@ education:
 email: "jsellis@email.wm.edu"
 highlight_name: true
 interests:
-- Machine 
+- Machine Learning
 - R Programming
-- Student Assessment Performance
+- Data Visualization
+- Student Performance
 - Student Self-Perception
 - Teacher Efficacy
-- 
+- Student Discipline
 organizations:
 - name: Newport News Public Schools
   url: http://sbo.nn.k12.va.us/
