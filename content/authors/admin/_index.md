@@ -42,6 +42,6 @@ title: Joseph Ellis
 
 I am the Supervisor of Instructional Data for Newport News Public Schools in Newport News, VA. In my role, I manage the local assessment platform and supervise the analysis of numerous formative and summative assessment data sets. I collaborate with our Youth Development department to analyze and find patterns in student discipline data. I co-chaired the Student Discipline Task Force, working to find and root-out bias in student discipline practices and presented the findings to the school board. 
 
-I am currently a students in the Master of Science in Business Analytics program at The College of William & Mary in Williamsburg, VA. I enjoy using data to solve problems and am particularly fond of R programming. With my background in K-12 education, I have a deep interest in using machine learning algorithms to develop data-informed solutions to the day-to-day business of students, teachers, and school administrators.
+I am currently a student in the Master of Science in Business Analytics program at The College of William & Mary in Williamsburg, VA. I enjoy using data to solve problems and am particularly fond of R programming. With my background in K-12 education, I have a deep interest in using machine learning algorithms to develop data-informed solutions to the day-to-day business of students, teachers, and school administrators.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
