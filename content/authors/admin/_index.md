@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a passionate data analyst, educator, husband, and father. I am interested in merging disparate data sets to provide leaders with clarity in making informed decisions, and using modern technology to uncover hidden patterns to improve student outcomes.
 education:
   courses:
   - course: MS in Business Analytics
