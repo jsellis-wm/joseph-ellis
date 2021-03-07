@@ -16,18 +16,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Apply the Bootstrap CSS framework to build user interfaces for web applications
+  icon: bootstrap
+  icon_pack: fab
+  name: Bootstrap
+- description: Create custom CSS to style web applications
+  icon: css3-alt
+  icon_pack: fab
+  name: CSS
+- description: Deploy and maintain droplets for application and database servers
+  icon: digital-ocean
+  icon_pack: fab
+  name: Digital Ocean
+- description: Use Github as a remote version control and CI/CD environment
+  icon: github
+  icon_pack: fab
+  name: Github
+- description: Build the structure of web application user interfaces using HTML
+  icon: html5
+  icon_pack: fab
+  name: HTML
+- description: Use JavaScript to add interactivity and data visualizations to web applications
+  icon: js
+  icon_pack: fab
+  name: JavaScript
+- description: Use the Microsoft Office suite to conduct data analysis, write and publish reports, and deliver presentations
+  icon: microsoft
+  icon_pack: fab
+  name: Microsoft
+- description: Conduct data analysis, visualization, and modeling using Python
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Conduct data analysis, visualization, and modeling using R
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
