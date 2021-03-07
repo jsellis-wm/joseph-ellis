@@ -10,7 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Use this contact form to reach out with requests to collaborate, conference or speaking engagement opportunities, or ideas for future post content. If you need help with an R, Python, or SQL script, or you just can't get an Excel formula to work right, please seek help from an online community such as [Stack Overflow](https://stackoverflow.com/).
 
 content:
   # Automatically link email and phone or display as text?
