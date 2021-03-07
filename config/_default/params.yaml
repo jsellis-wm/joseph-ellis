@@ -41,7 +41,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
@@ -129,7 +129,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-TYQ407JXES'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
