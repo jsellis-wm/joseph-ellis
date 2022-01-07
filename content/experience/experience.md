@@ -22,12 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Supervisor of Accountability and Assessment
+    company: New Kent County Public Schools
+    company_url: 'http://www.newkentschools.org'
+    location: New Kent County, VA
+    date_start: '2021-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Serve as Division Director of Testing, overseeing all state and national testing administrations
+        * Manage the local assessment platform and advise curriculum teams on matters of assessment
+        * Manage all federal program grants (Titles I, II, III, and IV)
+        * Serve as the Division Hearing Officer, acting as the superintendent's designee in matter of student discipline
+        * Analyze student data sets to include assessments, attendance, discipline, etc.
+        
   - title: Supervisor of Instructional Data
     company: Newport News Public Schools
     company_url: 'http://sbo.nn.k12.va.us'
     location: Newport News, VA
     date_start: '2017-07-01'
-    date_end: ''
+    date_end: '2021-06-30'
     description: |2-
         Responsibilities include:
         
@@ -59,9 +74,7 @@ experience:
     date_start: '2007-08-15'
     date_end: '2015-06-30'
     description: |2-
-        * Taught 8th grade math, Algebra 1, and Geometry to 8th grade students at Berkeley Middle School. 
-        
+        * Taught 8th grade math, Algebra 1, and Geometry to 8th grade students at Berkeley Middle School.
         * Chaired the Family and Community Engagement Committee.
-        
         * Coached basketball and football teams
 ---
