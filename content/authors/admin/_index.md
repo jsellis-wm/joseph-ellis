@@ -22,9 +22,9 @@ interests:
 - Teacher Efficacy
 - Student Discipline
 organizations:
-- name: Newport News Public Schools
-  url: http://sbo.nn.k12.va.us/
-role: Supervisor of Instructional Data
+- name: New Kent County Public Schools
+  url: http://www.newkentschools.org/
+role: Supervisor of Accountability and Assessment
 social:
 - icon: envelope
   icon_pack: fas
