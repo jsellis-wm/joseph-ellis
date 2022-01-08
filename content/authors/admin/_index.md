@@ -47,4 +47,4 @@ Previously, I was the Supervisor of Instructional Data for Newport News Public S
 
 I am currently a student in the Master of Science in Business Analytics program at The College of William & Mary in Williamsburg, VA. I enjoy using data to solve problems and am particularly fond of R scripting and building web applications using the .NET framework. With my background in K-12 education, I have a deep interest in using machine learning algorithms to develop data-informed solutions to the day-to-day business of students, teachers, and school administrators.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/ellis_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

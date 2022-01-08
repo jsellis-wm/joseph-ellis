@@ -54,7 +54,7 @@ feature:
   name: R
 - description: Query databases to gather for analysis and web applications
   icon: database
-  icon_pack: fab
+  icon_pack: fas
   name: SQL
 
 # Uncomment to use emoji icons.
