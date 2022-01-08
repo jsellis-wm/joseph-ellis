@@ -52,6 +52,10 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
+- description: Query databases to gather for analysis and web applications
+  icon: database
+  icon_pack: fab
+  name: SQL
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
